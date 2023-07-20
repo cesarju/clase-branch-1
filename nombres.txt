@@ -8,3 +8,4 @@ Nombres de la clase
  - Alejandro
  - Ceara
  - Pablo
+ - Edith
