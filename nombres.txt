@@ -7,3 +7,5 @@ Nobres de la clase
  - Miguel
  - Edgar
  - Alejandro
+ - Ceara
+ - Pablo
